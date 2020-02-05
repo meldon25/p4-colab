@@ -3,4 +3,5 @@
 #### It is built with React and adheres to a Zeplin design created by a UX team.
 ![alt text](https://i.imgur.com/vzGqKor.png)
 
+##### Deployed via Surge here: [In A Pinch](inapinch.surge.sh) 
 ##### Maintained by: Melissa Donegan, Andrew Chang, and Chris Abrams
